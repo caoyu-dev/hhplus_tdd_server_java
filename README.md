@@ -1,5 +1,5 @@
 # 프로젝트 다이어그램
-![다이어그램](/Users/caoyu/Downloads/photo_2024-10-10 23.26.57.jpeg)
+![다이어그램](project_diagram.png)
 
 # 프로젝트 마일스톤
 
